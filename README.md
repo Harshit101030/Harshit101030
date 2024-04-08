@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Harshit Sahu**
-- I am Software Test Engineer
+- # I am Software Test Engineer
 - 👀 I’m interested in Software Testing and bug finding in the applications or websites
 - 🌱 I’m currently learning Selenium + java
 - 💞️ I’m looking to collaborate on Automation testing concept
